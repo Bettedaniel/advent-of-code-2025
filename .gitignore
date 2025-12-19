@@ -427,3 +427,8 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+# Added by me
+**/*.vcxproj
+**/*.vcxproj.user
+**/*.vcxproj.filters
+*.slnx
